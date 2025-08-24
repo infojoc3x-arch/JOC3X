@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/JOC3X/static/css/main.e6c13ad2.css",
-    "main.js": "/JOC3X/static/js/main.68e72d0b.js",
+    "main.js": "/JOC3X/static/js/main.d2bbf7b9.js",
     "static/js/453.7a64e62c.chunk.js": "/JOC3X/static/js/453.7a64e62c.chunk.js",
     "static/media/Portada3x_pro.png": "/JOC3X/static/media/Portada3x_pro.927e18bca057a6d5ad65.png",
     "index.html": "/JOC3X/index.html",
     "main.e6c13ad2.css.map": "/JOC3X/static/css/main.e6c13ad2.css.map",
-    "main.68e72d0b.js.map": "/JOC3X/static/js/main.68e72d0b.js.map",
+    "main.d2bbf7b9.js.map": "/JOC3X/static/js/main.d2bbf7b9.js.map",
     "453.7a64e62c.chunk.js.map": "/JOC3X/static/js/453.7a64e62c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.68e72d0b.js"
+    "static/js/main.d2bbf7b9.js"
   ]
 }
